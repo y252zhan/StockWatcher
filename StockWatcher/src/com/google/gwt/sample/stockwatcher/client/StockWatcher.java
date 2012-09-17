@@ -119,6 +119,10 @@ public class StockWatcher implements EntryPoint {
 
   }
 
+  public void newMethod() {
+	  //test new mothod
+  }
+  
   /**
    * Add stock to FlexTable. Executed when the user clicks the addStockButton or
    * presses enter in the newSymbolTextBox.
